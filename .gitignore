@@ -1,0 +1,13 @@
+target/
+database/*.mv.db
+database/*.lock.db
+database/*.trace.db
+*.log
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db
